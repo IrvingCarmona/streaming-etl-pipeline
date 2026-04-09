@@ -20,5 +20,5 @@ Este proyecto implementa un pipeline de Ingeniería de Datos "End-to-End" para u
 3. **Load:** Carga híbrida hacia Data Lake (Analítica) y MongoDB (Operacional).
 
 ##  Autor
-**[Irving Carmona ]** *Ingeniero de Datos en formación* 📧 [ing.carmona.irving@gmail.com]  
+**[Irving Carmona ]Estudiante de Ingeniera en Computacion  📧 [ing.carmona.irving@gmail.com]  
 🔗 [Link a tu LinkedIn si tienes]
