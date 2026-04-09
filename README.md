@@ -21,4 +21,4 @@ Este proyecto implementa un pipeline de Ingeniería de Datos "End-to-End" para u
 
 ##  Autor
 **[Irving Carmona ]Estudiante de Ingeniera en Computacion  📧 [ing.carmona.irving@gmail.com]  
-🔗 [Link a tu LinkedIn si tienes]
+🔗 [www.linkedin.com/in/irving-yael-sanchez-carmona-b99128402]
